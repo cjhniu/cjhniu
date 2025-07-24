@@ -13,7 +13,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-1.first
-1.second
-5.third
+1. first
+1. second
+5. third
 
