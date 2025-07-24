@@ -1,4 +1,5 @@
 # about me
+## i'm trying markdown
 
 <!--
 **cjhniu/cjhniu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
