@@ -1,5 +1,6 @@
 # about me
 
+![genshin impact](https://fastcdn.mihoyo.com/content-v2/hk4e/127038/18634b8bab800adde7dc5cbb96a7e4a4_8197895931003012112.jpg)
 
 **cjhniu/cjhniu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,4 +24,23 @@
       1. 1
       2. 2
       3. 3
+         1. yi
+         2. er
+- hello,world
+  - hi
+    - thanks
++ hello
+* hello
+  
+type`code`
+
+``use`code`in your markdown file``
+
+my favourite site is ***[csdiy](https://csdiy.wiki "the best")***
+
+*<https://csdiy.wiki>*
+
+[csdiy][1]
+
+[1]: <https://csdiy.wiki>
 
