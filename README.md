@@ -1,6 +1,6 @@
 # about me
 
-![genshin impact](https://fastcdn.mihoyo.com/content-v2/hk4e/127038/18634b8bab800adde7dc5cbb96a7e4a4_8197895931003012112.jpg)
+\> this is not headline
 
 **cjhniu/cjhniu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
